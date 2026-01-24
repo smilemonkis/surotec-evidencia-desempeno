@@ -19,4 +19,3 @@ export function calcularMonto(monto) {
   };
 }
 
-module.exports = calcularMonto;
