@@ -23,7 +23,6 @@ export function convertirMoneda(monto, origen, destino) {
 
     contadorConversiones = contadorConversiones + 1
     
-    console.log("Conversiones realizadas: " + contadorConversiones)
     
     return resultado.toFixed(2)
 }
